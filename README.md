@@ -16,9 +16,7 @@ This repository implements **Text-Attributed Hypergraph Learning (TAHG)** for **
 ---
 
 ## 🛠 Installation & Execution
-Clone the repository
-```bash
-git clone https://github.com/ratri1310/TAHGzerocon.git
+
 cd tahg_project
 Install dependencies
 pip install -r requirements.txt
