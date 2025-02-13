@@ -17,6 +17,10 @@ This repository implements **Text-Attributed Hypergraph Learning (TAHG)** for **
 
 ##  Installation & Execution
 
+```sh
+cd tahg_project
+pip install -r requirements.txt
+
 cd tahg_project
 Install dependencies
 pip install -r requirements.txt
