@@ -4,7 +4,7 @@ This repository implements **Text-Attributed Hypergraph Learning (TAHG)** for **
 
 ---
 
-## 🚀 Features
+##  Features
 - **Text-Attributed Hypergraph (TAHG)** construction from **MeSH codes and PubMed abstracts**.
 - **Mixture-of-Prompt-Experts (MoP)** using LLMs for **semantic perturbations**.
 - **Variational Autoencoder (VAE)** for controlled augmentation of text attributes.
@@ -15,7 +15,7 @@ This repository implements **Text-Attributed Hypergraph Learning (TAHG)** for **
 
 ---
 
-## 🛠 Installation & Execution
+##  Installation & Execution
 
 cd tahg_project
 Install dependencies
