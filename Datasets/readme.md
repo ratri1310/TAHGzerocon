@@ -10,7 +10,6 @@ This repository uses biomedical literature datasets derived from the PubMed to t
 
 - **Source:** [BioASQ Task A](http://www.bioasq.org/)
 - **Raw file:** `allMeSH_2022.json` — full PubMed corpus with MeSH annotations (16.2M articles)
-- **We use:** Articles from years 2019–2021 (1,521,250 articles)
 - **Download:** Register and download from the BioASQ website: http://www.bioasq.org/
 
 ### Domain Datasets (Neurology, Immunology, Embryology)
